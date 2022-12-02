@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "app.email.host",
+    "type": "java.lang.String",
+    "description": "A description for 'app.email.host'"
+  },
+  {
+    "name": "app.email.port",
+    "type": "java.lang.String",
+    "description": "A description for 'app.email.port'"
+  },
+  {
+    "name": "app.email.user",
+    "type": "java.lang.String",
+    "description": "A description for 'app.email.user'"
+  },
+  {
+    "name": "app.email.from",
+    "type": "java.lang.String",
+    "description": "A description for 'app.email.from'"
+  },
+  {
+    "name": "app.email.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app.email.password'"
+  },
+  {
+    "name": "app.email.multiple.person.first",
+    "type": "java.lang.String",
+    "description": "A description for 'app.email.multiple.person.first'"
+  },
+  {
+    "name": "app.email.multiple.person.third",
+    "type": "java.lang.String",
+    "description": "A description for 'app.email.multiple.person.third'"
+  },
+  {
+    "name": "account.sid",
+    "type": "java.lang.String",
+    "description": "A description for 'account.sid'"
+  },
+  {
+    "name": "app.email.multiple.person.second",
+    "type": "java.lang.String",
+    "description": "A description for 'app.email.multiple.person.second'"
+  }
+]}
